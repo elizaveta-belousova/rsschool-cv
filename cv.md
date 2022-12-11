@@ -1,10 +1,9 @@
 # Elizaveta Belousova
 --------------------- 
 ### Contacts:
-1. Discord: elizmeris
+1. Discord: elizmeris#9425
 2. Email: elizmeris@mail.ru
 3. Tel: + 7-902-271-36-37
---------------------- 
 ### About myself:
 I learn Front-End Development in RSSchool and on other platforms. I also love dogs 
 ### Code example: 
