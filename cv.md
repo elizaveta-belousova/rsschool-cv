@@ -7,7 +7,7 @@
 ***
 ### About myself:
 I learn Front-End Development in RSSchool and on other platforms. I also love dogs
-***
+
 ### Code example: 
 ```
 function alphabetPosition(text) {
@@ -26,11 +26,11 @@ function alphabetPosition(text) {
     return result.join(' ')
   }
 ```
-***
+
 ### Education and courses:
 1. JavaScript on https://learn.javascript.ru/
 2. JS, CSS, HTML, Git video courses on YouTube channel
 3. Practice on figma and codewars
-***
+
 ### Language:
 English - A1
