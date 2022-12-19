@@ -199,6 +199,10 @@ h2 {
   font-size: 20px;
 }
 
+.code-example a {
+  font-size: 20px;
+}
+
 .code-example pre {
   font-size: 15px;
   border: 1px solid #fed6da;
